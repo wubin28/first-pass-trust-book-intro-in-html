@@ -34,5 +34,4 @@ build/
 *.md
 
 # === 本项目：忽略的两个子目录 ===
-/assets/
 /exports/
