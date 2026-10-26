@@ -1,0 +1,38 @@
+# === 操作系统生成文件 ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === 编辑器 / IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === Node / 前端构建常见产物（如后续引入构建工具）===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# === 日志与临时文件 ===
+*.log
+*.tmp
+*.bak
+
+# === 本项目：除 html 外的所有 md 文件 ===
+*.md
+
+# === 本项目：忽略的两个子目录 ===
+/assets/
+/exports/
